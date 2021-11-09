@@ -31,3 +31,6 @@
 ## Personajes
 #### Los personajes de un juego son las cosas que hacen la accion. En el juego de "Donkey Kong" el personaje es donkey kong porque el es el que hace la accion
 #### En 2K22 los personajes son los jugadores en los equipos, lof fanaticos y los entrenadores. El personaje mas importante son los jugadores
+
+<img src="https://cdn.vox-cdn.com/thumbor/E_d9qZl1bYgro7pHL8RhkKQZp7I=/0x0:813x1024/1200x800/filters:focal(485x145:615x275)/cdn.vox-cdn.com/uploads/chorus_image/image/69580917/luka_2k22_standard.0.jpg"
+     />
