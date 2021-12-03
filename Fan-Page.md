@@ -3,7 +3,7 @@
 
 <div align="center">
     <img    src="https://www.fcbarcelona.com/photo-resources/2021/08/17/b0a62a31-b955-4c78-8e6f-6690e22ffbb3/mini_11-OUSMANE-DEMBELE-1A-EQUIPACIO-004.png?width=624&height=368"
-            title="Pestily"
+            title="Dembele
             width="20%"
             height="20%" 
             />
@@ -14,7 +14,7 @@
 <br>
 
 <p>
-    Pestily is a popular streamer that plays my favorite game, Escape From tarkov. At the time that i wrote this page he has over half a million subscribers on youtube and over a million on twitch. He has stood out through informative content, MLG skills and charitable livestream events. His content aims to be for viewers of all ages, even though EFT is a realistic FPS.
+    Ousmane Dembele is a professional soccer player who plays for the 1st Division spanish team FC Barcelona. 
 </p>
 
 <br>
