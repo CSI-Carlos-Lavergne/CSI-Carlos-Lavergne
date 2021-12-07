@@ -9,21 +9,21 @@
             />
 </div>
 
-<h2 align="center" > Acting, streaming, sports or other personality Fan Page!</h2>
+<h2 align="center" > Ousmane Dembele FanPage </h2>
 
 <br>
 
 <p>
-    Ousmane Dembele is a professional soccer player who plays for the 1st Division spanish team FC Barcelona. 
-</p>
+    Ousmane Dembele is a French professional soccer player who plays for the 1st Division spanish club FC Barcelona. He was born in Vernon, France where he quickly started to love soccer. He went to a youth sports school in Evreux. After good performances, he was signed by the Rennes youth academy. After 5 years in thhe academy he was promoted to senior squad and had a great first season scoring 12 goals and providing 5 assists in 27 matches. In 2016, he signed with top german club Borussia Dortmund. He stayed there for 2 and a half years until he transfered to FC Barcelona where he currently plays. In 2018 he played and won the FIFA World Cup with France. Ousmane Dembele is one of the brightest young stars in soccer and exeryone is excited on what his future holds.
+                  </p>
 
 <br>
 
 <div align="center">
-    <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
+    <img    src="https://pbs.twimg.com/media/DnJiSdXWsAAHvLc.jpg"
             title="Pestily"
-            width="50%"
-            height="50%" 
+            width="30%
+            height="30%" 
             />
 </div>
 
@@ -33,36 +33,39 @@
 <table>
     <tr>
         <th>Name</th>
-        <td>Paul</td>
+        <td>Ousmane</td>
+    </tr>
+    <tr>
+       <th>Last Name</th>
+        <td>Dembele</td>
     </tr>
     <tr>
         <th>Age</th>
-        <td>34</td>
-    </tr>
-    <tr>
-        <th>Birthday</th>
-        <td>7th November</td>
+        <td>21</td>
     </tr>
         <tr>
         <th>Nationality</th>
-        <td>Australian</td>
+        <td>French</td>
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@thisispestily</td>
+        <td>@o.dembele7</td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td>@pestily</td>
+        <td>@Dembouz</td>
     </tr>
     <tr>
-        <th>Youtube</th>
-        <td>@pestily</td>
+        <th>Jersey Number</th>
+        <td>7</td>
     </tr>
     <tr>
-        <th>Twitch</th>
-        <td><a href="https://www.twitch.tv/pestily"> @pestily </a></td>
+        <th>Club</th>
+        <td><a href="https://www.fcbarcelona.com/en/"> @Fc Barcelona </a></td>
     </tr>
+    <tr>
+        <th>Birthday</th>
+        <td>< </td
 </table>
 
 
