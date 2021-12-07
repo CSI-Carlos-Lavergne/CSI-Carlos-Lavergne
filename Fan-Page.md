@@ -73,7 +73,19 @@
 </table>
 
 
-<br><br>
+<br>
+
+<div align="center">
+    <img    src="https://www.fcbarcelona.com/photo-resources/2021/08/17/b0a62a31-b955-4c78-8e6f-6690e22ffbb3/mini_11-OUSMANE-DEMBELE-1A-EQUIPACIO-004.png?width=624&height=368"
+            title="Dembele
+            width="20%"
+            height="20%" 
+            />
+</div>
+
+
+
+<br>
 
 <p>
     Made by: <u>Carlos Ivan Lavergne</u> on December 2, 2021
