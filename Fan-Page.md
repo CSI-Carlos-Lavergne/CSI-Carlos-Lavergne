@@ -65,12 +65,16 @@
     </tr>
     <tr>
         <th>Birthday</th>
-        <td>< </td
+        <td>May 15</td>
+    </tr>
+    <tr>
+        <th>Postition</th>
+        <td>Forward</th>
 </table>
 
 
 <br><br>
 
 <p>
-    Made by: <u>Carlos Jose Cobian</u> on December 2, 2021
+    Made by: <u>Carlos Ivan Lavergne</u> on December 2, 2021
 </p>
