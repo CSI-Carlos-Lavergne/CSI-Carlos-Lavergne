@@ -13,7 +13,7 @@
 
 <br>
 
-<p>
+<p style="font-family:Comic Sans MS; font-size:140%;" >
     Ousmane Dembele is a French professional soccer player who plays for the <a href="https://www.laliga.com/">La Liga</a> spanish club FC Barcelona. He was born in Vernon, France where he quickly started to love soccer. He went to a youth sports school in Evreux. After good performances, he was signed by the Rennes youth academy. After 5 years in the academy he was promoted to senior squad and had a great first season scoring 12 goals and providing 5 assists in 27 matches. In 2016, he signed with top german club Borussia Dortmund. He stayed there for 2 and a half years until he transfered to FC Barcelona where he currently plays. In 2018 he played and won the <a href="https://www.fifa.com/">FIFA World Cup</a> with France. Ousmane Dembele is one of the brightest young stars in soccer and exeryone is excited on what his future holds.
                   </p>
 
